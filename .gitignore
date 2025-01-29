@@ -13,4 +13,5 @@
 **/ny_taxi_postgres_data/*
 serving_dir
 .ipynb_checkpoints/
+*.csv
 !week_6_stream_processing/avro_example/data/rides.csv
